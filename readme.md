@@ -29,6 +29,6 @@ In summary you can:
 
 * Mike N. (mike@vinova.sg) - Author
 
-Copyright (c) 2010-2011 Vinova Pte Ltd (http://vinova.sg)
+Copyright (c) 2010-2011 [Vinova Pte Ltd](http://vinova.sg)
 
 Licensed under the MIT license.
