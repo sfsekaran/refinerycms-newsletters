@@ -6,7 +6,7 @@
 
 Include the latest [gem](http://rubygems.org/gems/refinerycms-newsletters) into your Refinery CMS application's Gemfile:
 
-    gem 'refinerycms-newsletters', '1.0'
+    gem 'refinerycms-newsletters', '1.1'
 
 Then type the following at command line inside your Refinery CMS application's root directory:
 
@@ -18,7 +18,7 @@ Next migrate your database and you're done:
 
 ## About
 
-__Add a simple newsletter registration form to Refinery__
+__Add a simple newsletter registration (email subscription) form to Refinery__
 
 In summary you can:
 
@@ -27,7 +27,7 @@ In summary you can:
 
 == Credits
 
-* Mike N. - Author
+* Mike N. (mike@vinova.sg) - Author
 
 Copyright (c) 2010-2011 Vinova Pte Ltd (http://vinova.sg)
 
