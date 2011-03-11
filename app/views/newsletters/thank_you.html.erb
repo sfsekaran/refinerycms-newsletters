@@ -1,1 +1,10 @@
-Thank you for your subscription. Have a nice day!
+<% content_for :body_content_left do %>
+  <div class='newsletters'>
+    <p>Thank you for your subscription. Have a nice day!</p>
+    <br />
+    <div class='actions'>
+      <%= link_to "Go Back", "/"%>
+    </div>
+  </div>
+<% end %>
+<%= render :partial => "/shared/content_page" %>

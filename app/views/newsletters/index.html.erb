@@ -1,6 +1,9 @@
 <% content_for :body_content_left do %>
   <div class='newsletters'>
-    <%#=raw @page[Page.default_parts.first.to_sym] %>
+    <p>
+      Thank you for signing up to receive email updates from MyAppalogues. We respects your privacy and we will not share our customer information with anyone.<br /> 
+      Your information will be used exclusively for newsletter and promotions by us.
+    </p>
 
     <%= form_for @newsletter do |f| %>
       <%= render :partial => "/shared/admin/error_messages",

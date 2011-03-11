@@ -13,7 +13,7 @@ class NewslettersController < ApplicationController
     if @newsletter.save
       redirect_to thank_you_newsletters_url
     else
-      render :action => 'new'
+      render :action => 'index'
     end
   end
 
